@@ -1,3 +1,7 @@
+# Merry Christmas sir! 
+# Reporter po ako, triny ko lang po iprogram yung assignment
+# Thank you po ulit sir
+
 # Program 2: Guess the number
 # Generate 1 random number (0-100)
 # Ask the user to guess the number
